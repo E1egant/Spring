@@ -17,4 +17,3 @@ public class Libro {
     private String autor;
 }
 
-//Eres pero muy buen amigo, te quiero mucho.
